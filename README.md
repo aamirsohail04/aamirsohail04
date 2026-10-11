@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi, I'm Aamir 👋
 
-<!--
-**aamirsohail04/aamirsohail04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Systems and virtualization engineer with a background in embedded Linux and
+automotive software. I work close to the hardware, and I am building virtual
+machine monitors in Rust.
 
-Here are some ideas to get you started:
+#### Currently
+- Building [minivmm](https://github.com/aamirsohail04/minivmm), a small
+  KVM-based VMM on the rust-vmm crates, one milestone at a time.
+- Going deeper into the rust-vmm and Cloud Hypervisor ecosystem.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Working with
+Rust, C, KVM, QEMU, virtio / vhost-user, Linux kernel and device drivers,
+SoC bring-up.
+
+#### Learning
+Rust for systems programming, and hypervisor internals from the vCPU loop up.
+
+📫 Reach me on [LinkedIn](https://www.linkedin.com/in/aamir-sohail-94922989).
